@@ -1,0 +1,222 @@
+[
+  {
+    "id": "chat_1",
+    "customer_id": "cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "Hello MK Traders, what is today's bulk rate for California Almonds 200kg?",
+    "quick_action": "",
+    "timestamp": "2025-06-12 10:15:00",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_2",
+    "customer_id": "cust_1",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Support",
+    "message": "Hello Mr. Ramesh! Today's rate for California Almonds is ₹720/kg for orders above 100kg. Free shipping to Chennai included.",
+    "quick_action": "",
+    "timestamp": "2025-06-12 10:18:00",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_3",
+    "customer_id": "cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "Great! Please book 200kg. Dispatch invoice on WhatsApp.",
+    "quick_action": "",
+    "timestamp": "2025-06-12 10:20:00",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_4",
+    "customer_id": "cust_2",
+    "sender": "customer",
+    "sender_name": "Sri Balaji Store",
+    "message": "Do you have Salem Grade A Turmeric Powder in 50kg gunny bags?",
+    "quick_action": "",
+    "timestamp": "2025-06-11 11:30:00",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_5",
+    "customer_id": "cust_2",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Support",
+    "message": "Yes sir, ready stock available with export lab certification. Rate is ₹240/kg.",
+    "quick_action": "",
+    "timestamp": "2025-06-11 11:35:00",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1790745359298",
+    "customer_id": "cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "Need Salem Turmeric 300kg quote",
+    "quick_action": "",
+    "timestamp": "2026-09-30 10:45:59",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1790745581556",
+    "customer_id": "cust_1790745576452",
+    "sender": "customer",
+    "sender_name": "Murugan Provisions",
+    "message": "Please share today's wholesale rate card.",
+    "quick_action": "",
+    "timestamp": "2026-09-30 10:49:41",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1790745643369",
+    "customer_id": "cust_1790745576471",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Admin",
+    "message": "🌶️ We supply Salem Grade A Turmeric Powder with >3.5% Curcumin and moisture below 9%. Export quality lab certified bags ready for immediate dispatch.",
+    "quick_action": "",
+    "timestamp": "2026-09-30 10:50:43",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1790757121811",
+    "customer_id": "cust_1",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Admin",
+    "message": "hii",
+    "quick_action": "",
+    "timestamp": "2026-09-30 14:02:01",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1790757687017",
+    "customer_id": "cust_1790757687017",
+    "sender": "customer",
+    "sender_name": "Muthu Traders",
+    "message": "Inquired for General Inquiry (Direct Contact Message): Need 500kg Salem Turmeric and Tellicherry Black Pepper quote.",
+    "quick_action": "Enquiry Form",
+    "timestamp": "2026-09-30 14:11:27",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791289423718",
+    "customer_id": "cust_1791289423711",
+    "sender": "customer",
+    "sender_name": "Test GST Merchant",
+    "message": "📦 *New Wholesale Order Placed:*\n• Product: Turmeric Powder (50.0 kg)\n• Rate: ₹240.00/kg\n• Total Amount: ₹12,000.00\n• Payment Mode: UPI\n• Transaction / UTR: TESTUTR9999\n• GSTIN: 33AUJPM5853C1ZP\n• Payment Status: Pending Verification",
+    "quick_action": "Order Payment Form",
+    "timestamp": "2026-10-06 17:53:43",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791289496440",
+    "customer_id": "cust_1791289423711",
+    "sender": "customer",
+    "sender_name": "Liya Spices & Traders",
+    "message": "📦 *New Wholesale Order Placed:*\n• Product: Turmeric Powder (50.0 kg)\n• Rate: ₹240.00/kg\n• Total Amount: ₹12,000.00\n• Payment Mode: UPI (GPay / PhonePe / Paytm)\n• Transaction / UTR: HDFC98210384910\n• GSTIN: 33AUJPM5853C1ZP\n• Payment Status: Pending Verification",
+    "quick_action": "Order Payment Form",
+    "timestamp": "2026-10-06 17:54:56",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791291355593",
+    "customer_id": "cust_1790757687007",
+    "sender": "customer",
+    "sender_name": "Muthu Traders",
+    "message": "I would like to speak directly with the Wholesale Support Manager.",
+    "quick_action": "",
+    "timestamp": "2026-10-06 18:25:55",
+    "is_read": 0,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791292747520",
+    "customer_id": "test_cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "Hello! We need 500kg Salem Turmeric Powder delivered to Madurai. Please give wholesale quote.",
+    "quick_action": "",
+    "timestamp": "2026-10-06 18:49:07",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791292747892",
+    "customer_id": "test_cust_1",
+    "sender": "bot",
+    "sender_name": "MK Support Desk",
+    "message": "Our Salem Grade A Turmeric Powder is naturally steam-sterilized with high Curcumin content (>3.5%). Bulk wholesale rate is **₹240/kg**. Ready for immediate dispatch.",
+    "quick_action": "chips",
+    "timestamp": "2026-10-06 18:49:07",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791292766038",
+    "customer_id": "test_cust_1",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Admin",
+    "message": "Hello Ramesh Traders! We have ready stock in Salem warehouse. Special discounted rate of ₹230/kg for 500kg booking. Shall we generate proforma invoice?",
+    "quick_action": "",
+    "timestamp": "2026-10-06 18:49:26",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791292781174",
+    "customer_id": "test_cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "I would like to speak directly with the Wholesale Support Manager.",
+    "quick_action": "",
+    "timestamp": "2026-10-06 18:49:41",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791292781758",
+    "customer_id": "test_cust_1",
+    "sender": "bot",
+    "sender_name": "MK Support Desk",
+    "message": "Connecting you with our Wholesale Support Manager right now. 👨‍💼\n\nPlease share your specific requirement, quantity (kg), and delivery city below — our manager is available and will respond to your chat in real-time.",
+    "quick_action": "chips",
+    "timestamp": "2026-10-06 18:49:41",
+    "is_read": 1,
+    "image_url": ""
+  },
+  {
+    "id": "chat_1791302184222",
+    "customer_id": "test_cust_1",
+    "sender": "customer",
+    "sender_name": "Ramesh Traders",
+    "message": "Attached payment receipt for 50kg Salem Turmeric order. UTR: 428910382910",
+    "quick_action": "",
+    "timestamp": "2026-10-06 21:26:24",
+    "is_read": 1,
+    "image_url": "images/receipts/proof_1791302184165.jpg"
+  },
+  {
+    "id": "chat_1791302224345",
+    "customer_id": "test_cust_1",
+    "sender": "admin",
+    "sender_name": "MK Spicepod Admin",
+    "message": "📊 **SRI MK SPICEPOD Daily Wholesale Rates (Indicative Bulk Rates/kg):**• Turmeric Salem Grade A: ₹240/kg• Red Chilli Guntur Sannam: ₹280/kg• Tellicherry Black Pepper: ₹650/kg• California Almonds: ₹720/kg• W240 King Cashews: ₹820/kg• Iranian Salted Pistachios: ₹1,150/kg• Green Cardamom 8mm: ₹2,600/kgFor bulk orders above 500kg, special discounted rates apply. Would you like a formal proforma quotation?",
+    "quick_action": "",
+    "timestamp": "2026-10-06 21:27:04",
+    "is_read": 0,
+    "image_url": ""
+  }
+]
